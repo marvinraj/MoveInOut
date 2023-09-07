@@ -1,5 +1,5 @@
 # MoveInOut
-
+### Basic python project which involves filtering and moving files/folders
 MOVE 1:
   Files within a specific folder will be filtered according to its file type (MP4, WORD doc, JPEG and ZIP) and moved     into separate folder accordingly.
   
